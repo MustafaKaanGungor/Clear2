@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0903aa63a9d0724ab084ed1f2560ab3, type: 3}
+  m_Name: LevelIntro
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 9a9fe02e9d695824484dedba1c6902f4, type: 3}
+  - {fileID: 8300000, guid: f6fb6bd7936650542b372dde642511a5, type: 3}
+  - {fileID: 8300000, guid: f6fb6bd7936650542b372dde642511a5, type: 3}
+  - {fileID: 8300000, guid: f6fb6bd7936650542b372dde642511a5, type: 3}
+  - {fileID: 8300000, guid: f6fb6bd7936650542b372dde642511a5, type: 3}
+  - {fileID: 8300000, guid: f6fb6bd7936650542b372dde642511a5, type: 3}
+  - {fileID: 8300000, guid: f6fb6bd7936650542b372dde642511a5, type: 3}
+  - {fileID: 8300000, guid: f6fb6bd7936650542b372dde642511a5, type: 3}
+  - {fileID: 8300000, guid: f6fb6bd7936650542b372dde642511a5, type: 3}
+  - {fileID: 8300000, guid: f6fb6bd7936650542b372dde642511a5, type: 3}
+  useRandomVolume: 0
+  volume: 0.3
+  volumeRandom: {x: 0.5, y: 0.5}
+  useRandomPitch: 0
+  pitch: 1
+  pitchRandom: {x: 1, y: 1}
+  playOrder: 2
+  playIndex: 9
+  loop: 0
+  source: {fileID: 0}
+  isPlayed: 0

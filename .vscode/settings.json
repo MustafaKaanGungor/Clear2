@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ClearReboot.sln"
+    "dotnet.defaultSolution": "Clear2.sln"
 }
